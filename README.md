@@ -1,7 +1,7 @@
-# 👋 Hey — I’m Eddie 
+# 👋 Hey, I’m Eddie 
 
 I’m an aspiring **web developer** and maker who mixes tech with creativity.  
-I build playful, responsive web projects and polish them into tiny portfolio pieces — think clean code with personality.
+I build playful, responsive web projects and polish them into tiny portfolio pieces, think clean code with personality.
 
 ---
 
@@ -15,8 +15,8 @@ I build playful, responsive web projects and polish them into tiny portfolio pie
 ### 💻 Featured Projects
 - 🏎️ **Formula 1 Landing Page** — racing-themed product landing page built for FreeCodeCamp.  
 - 👑 **Engfa Waraha Tribute Page** — a responsive tribute built with semantic HTML & CSS, for FreeCodeCamp.  
-- 🔁 **Trybrid** — A dynamic movie website built with HTML, CSS, and JavaScript — powered by an external API to display real movie data, with integrated YouTube trailers for an interactive experience. 
-- 😈 **Misschief** — A sleek record label website designed for Lara and Rhea Raj — built with HTML and CSS to showcase music, personality, and bold creative branding.
+- 🔁 **Trybrid** — A dynamic movie website built with HTML, CSS, and JavaScript, powered by an external API to display real movie data, with integrated YouTube trailers for an interactive experience. 
+- 😈 **Misschief** — A sleek record label website designed for Lara and Rhea Raj, built with HTML and CSS to showcase music, personality, and bold creative branding.
 
 > Check out my repos for live demos and source code.
 
@@ -47,7 +47,7 @@ I’m open to collabs, feedback, and beat-driven project ideas.
 ---
 
 > “Small projects, big practice.” — Eddie
-## Hi there 👋
+
 
 <!--
 **EmeraldKingg/EmeraldKingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
