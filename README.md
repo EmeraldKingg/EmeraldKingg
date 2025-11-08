@@ -27,6 +27,19 @@ I build playful, responsive web projects and polish them into tiny portfolio pie
 
 ---
 
+## 🏅 Certifications
+
+I’m proud to have earned the following certifications from [freeCodeCamp](https://www.freecodecamp.org/):
+
+| Certification | Issued | Hours | Link |
+|---------------|--------|-------|------|
+| **Responsive Web Design** | Nov 6, 2025 | 300 hrs | [View Certificate](https://www.freecodecamp.org/certification/kingedwardmanagement-2023/responsive-web-design) |
+| **Legacy Responsive Web Design V8** | Nov 6, 2025 | 300 hrs | [View Certificate](https://www.freecodecamp.org/certification/kingedwardmanagement-2023/responsive-web-design-v8) |
+
+![Responsive Web Design Certificate](certificates/responsive-web-design.png)
+![Legacy Responsive Web Design V8 Certificate](certificates/legacy-responsive-web-design-v8.png)
+
+---
 ### 🌱 Learning
 - Leveling up JavaScript & interactive UI patterns  
 - Learning modern tooling & deployment (GitHub Pages, basic CI)
